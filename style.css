@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-image: url(./images/background\ photo2.jpg);
+    
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+ h1 {color: red;
+        text-align: fixed;
+        font-size: x-large;
+        text-decoration: bold;
+    }
+    h4 {
+        color: black;
+        text-align: fixed;
+        font-size: larger;
+        font-style: italic;
+    }
+    .data1 {
+        
+        text-decoration-color: greenyellow;
+        font-weight: bold;
+    }
+    .data2{
+        text-decoration-color: greenyellow;
+        font-weight: bold;
+
+    }
+    button{
+        
+        
+        
+        
+    }
+
+        
+        
+   
+
+    
+    
+    
+   
+   
+
